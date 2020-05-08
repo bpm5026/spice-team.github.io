@@ -1,10 +1,8 @@
-title: Sea ice MURI website
-description: MURI to study sea ice
-author: the MURI team
-google_analytics: TEST
-author_email: TEST
-markdown: kramdown
-theme: jekyll-theme-slate
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
 include:
   - index.md
   - people.md
