@@ -2,4 +2,4 @@
 title: Home
 layout: default
 ---
-## TEST
+## Sea ice MURI team website!
