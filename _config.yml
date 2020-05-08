@@ -5,3 +5,7 @@ google_analytics: TEST
 author_email: TEST
 markdown: kramdown
 theme: jekyll-theme-slate
+include:
+  - index.md
+  - people.md
+  - particle-model.md
