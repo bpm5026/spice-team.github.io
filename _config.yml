@@ -1,7 +1,7 @@
-title: Sea ice MURI website
+title: Sea ice MURI
 description: MURI to study sea ice
 author: the MURI team
-theme: jekyll-theme-slate
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-relative-links
 relative_links:
