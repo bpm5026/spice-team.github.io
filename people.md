@@ -4,7 +4,10 @@ layout: default
 ---
 ## MURI Team
 
-<table>
+<table class="fixed">
+  <col width="150"/>
+  <col width="150"/>
+  <col width="150"/>
   <tr>
     <td>
     <img src="images/team/bushuk.png" alt=" " height="240"/> <br>
