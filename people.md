@@ -8,7 +8,7 @@ layout: default
   <tr>
     <td>
     <img src="images/team/bushuk.png" alt=" " height="240"/>
-    [Mitch Bushuk](https://www.gfdl.noaa.gov/mitch-bushuk/) 
+    <a href="https://www.gfdl.noaa.gov/mitch-bushuk/"> Mitch Bushuk</a>, Research Scientist, GFDL, Princeton 
     </td>
     <td>
     <img src="images/team/chen.jpg" alt=" " height="240"/>
