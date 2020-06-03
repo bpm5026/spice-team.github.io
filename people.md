@@ -16,7 +16,7 @@ layout: default
     <img src="images/team/chen.jpg" alt=" " width="200"/> <br>
     </td>
     <td>
-    <img src="images/team/dimitris_small.jpg" alt=" " width="200"/> <br>
+    <img src="images/team/dimitris_small.png" alt=" " width="200"/> <br>
     </td>
   </tr>
   <tr>
