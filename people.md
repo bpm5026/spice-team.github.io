@@ -26,6 +26,9 @@ layout: default
     <td>
   <a href="https://www.math.wisc.edu/~chennan/"> Nan Chen</a>, Assistant Professor or Mathematics, University of Wisconsin-Madison 
     </td>
+    <td>
+  <a href="https://cims.nyu.edu/~dimitris/"> Dimitris Giannakis</a>, Associte Professor or Mathematics, Courant Institute, NYU
+    </td>    
   </tr>
 </table>
 
