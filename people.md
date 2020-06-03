@@ -5,17 +5,26 @@ layout: default
 ## MURI Team
 
 <table class="fixed">
-  <col width="150"/>
-  <col width="150"/>
-  <col width="150"/>
+  <col width="200"/>
+  <col width="200"/>
+  <col width="200"/>
   <tr>
     <td>
-    <img src="images/team/bushuk.png" alt=" " height="240"/> <br>
-    <a href="https://www.gfdl.noaa.gov/mitch-bushuk/"> Mitch Bushuk</a>, Research Scientist, GFDL, Princeton 
+    <img src="images/team/bushuk.png" alt=" " width="200"/>
     </td>
     <td>
-    <img src="images/team/chen.jpg" alt=" " height="240"/> <br>
-    <a href="https://www.math.wisc.edu/~chennan/"> Nan Chen</a>, Assistant Professor or Mathematics, University of Wisconsin-Madison 
+    <img src="images/team/chen.jpg" alt=" " width="200"/> <br>
+    </td>
+    <td>
+    <img src="images/team/dimitris_small.jpg" alt=" " width="200"/> <br>
+    </td>
+  </tr>
+  <tr>
+    <td>
+    <a href="https://www.gfdl.noaa.gov/mitch-bushuk/"> Mitch Bushuk</a>, Research Scientist, GFDL, Princeton
+    </td>
+    <td>
+  <a href="https://www.math.wisc.edu/~chennan/"> Nan Chen</a>, Assistant Professor or Mathematics, University of Wisconsin-Madison 
     </td>
   </tr>
 </table>
