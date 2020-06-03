@@ -7,10 +7,10 @@ layout: default
 <table>
   <tr>
     <td>
-    <img src="images/team/bushuk.jpg" width=360px height=640px/>
+    <img src="images/team/bushuk.png" width=360px height=640px/>
     </td>
     <td>
-       <img src="images/team/bushuk.jpg" width=360px height=640px/>
+       <img src="images/team/bushuk.png" width=360px height=640px/>
     </td>
   </tr>
 </table>
