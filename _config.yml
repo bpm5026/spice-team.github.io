@@ -7,7 +7,3 @@ plugins:
 relative_links:
   enabled: true
   collections: true
-include:
-  - index.md
-  - people.md
-  - particle-model.md
