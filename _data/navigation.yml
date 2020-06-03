@@ -4,12 +4,13 @@ docs:
 - title: Home
   url: index.html
  
-- title: Topics
-  url: topics.html
- 
 - title: People
   url: people.html
   
 - title: Publications
   url: publications.html
-  
+
+- title: Gallery
+  url: gallery.html
+ 
+
