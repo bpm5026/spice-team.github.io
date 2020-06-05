@@ -4,7 +4,7 @@ layout: default
 ---
 ## Mission Statement
 
-It is our mission to develop a mathematical framework for sea ice
+It is our mission to develop a *mathematical* framework for sea ice
 modeling and prediction.
 
 
