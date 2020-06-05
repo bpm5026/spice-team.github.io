@@ -4,4 +4,4 @@ layout: default
 ---
 ## Research Galery
 
-[image](./images/ice-margins.jpg)
+[image](./images/ice-margin.jpg)
