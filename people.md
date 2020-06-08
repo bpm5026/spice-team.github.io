@@ -2,7 +2,7 @@
 title: People
 layout: default
 ---
-## MURI Team
+## Principal Investigators
 
 <table class="fixed">
   <col width="200"/>
@@ -32,3 +32,7 @@ layout: default
   </tr>
 </table>
 
+
+
+
+## Postdocs and Researchers
