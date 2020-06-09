@@ -4,22 +4,6 @@ layout: default
 ---
 ## Principal Investigators
 
-<div class="container">
-  <h1>
-    Responsive Column Rows
-  </h1>
-  <p>Resize window to see the column grid change. <a href="https://getbootstrap.com/docs/4.4/components/card/#grid-cards" target="_blank">Read Docs</a></p>
-  
-  <ul>
-    <li class="xs">1 column xs</li>
-    <li class="sm">2 column sm</li>
-    <li class="md">3 column md</li>
-    <li class="lg">4 column lg</li>
-    <li class="xl">5 column xl</li>
-  </ul>
-
-  
-  <h2>Responsive card deck example</h2>
 <div class="row row-cols-1 row-cols-md-4">
   <div class="col mb-4">
     <div class="card" style="width: 10rem;">
@@ -112,40 +96,6 @@ layout: default
     </div>
   </div>
 </div>
-  
-  
-    
-  <h2>Normal column grid example</h2>
-  <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 row-cols-lg-4 row-cols-xl-5">
-    <div class="col">Column</div>
-    <div class="col">Column</div>
-    <div class="col">Column</div>
-    <div class="col">Column</div>
-    <div class="col">Column</div>
-    <div class="col">Column</div>
-    <div class="col">Column</div>
-    <div class="col">Column</div>
-    <div class="col">Column</div>
-    <div class="col">Column</div>
-    <div class="col">Column</div>
-    <div class="col">Column</div>
-    <div class="col">Column</div>
-    <div class="col">Column</div>
-    <div class="col">Column</div>
-    <div class="col">Column</div>
-    <div class="col">Column</div>
-    <div class="col">Column</div>
-    <div class="col">Column</div>
-    <div class="col">Column</div>
-    <div class="col">Column</div>
-    <div class="col">Column</div>
-    <div class="col">Column</div>
-    <div class="col">Column</div>
-  </div>
-  
-  
-</div>
-<!-- /.container -->
 
 <div class="card-group">
   
