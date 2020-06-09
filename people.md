@@ -4,7 +4,7 @@ layout: default
 ---
 ## Principal Investigators
 
-<div class="card-group">
+<div class="card-deck">
     
     <div class="card" style="width: 10rem;">
       <a href="https://cims.nyu.edu/~dimitris/" title="" class="card-image hover-overlay" target="_blank">
