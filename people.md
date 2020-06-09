@@ -15,7 +15,22 @@ layout: default
       <div class="card-text">
         <h4><a href="https://cims.nyu.edu/~dimitris/" target="_blank">Dimitris Giannakis</a></h4>
         <div class="card-desription">
-          <p>Associte Professor or Mathematics, Courant Institute, NYU</p>
+          <p>Associte Professor of Mathematics, Courant Institute, NYU</p>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  <div class="col-xs-12 col-sm-6 col-md-4 col-lg-6 project-item isotope-item pdra_fafmip">
+    <div class="card">
+      <a href="https://www.gfdl.noaa.gov/mitch-bushuk/" title="" class="card-image hover-overlay" target="_blank">
+        <img src="images/team/bushuk.png" alt="" class="img-responsive">
+      </a>
+          
+      <div class="card-text">
+        <h4><a href="https://cims.nyu.edu/~dimitris/" target="_blank">Mitch Bushuk</a></h4>
+        <div class="card-desription">
+          <p>Research Scientist, GFDL, Princeton</p>
         </div>
       </div>
     </div>
@@ -43,10 +58,10 @@ layout: default
     <a href="https://www.gfdl.noaa.gov/mitch-bushuk/"> Mitch Bushuk</a>, Research Scientist, GFDL, Princeton
     </td>
     <td>
-  <a href="https://www.math.wisc.edu/~chennan/"> Nan Chen</a>, Assistant Professor or Mathematics, University of Wisconsin-Madison 
+  <a href="https://www.math.wisc.edu/~chennan/"> Nan Chen</a>, Assistant Professor of Mathematics, University of Wisconsin-Madison 
     </td>
     <td>
-  <a href="https://cims.nyu.edu/~dimitris/"> Dimitris Giannakis</a>, Associte Professor or Mathematics, Courant Institute, NYU
+  <a href="https://cims.nyu.edu/~dimitris/"> Dimitris Giannakis</a>, Associte Professor of Mathematics, Courant Institute, NYU
     </td>    
   </tr>
 </table>
