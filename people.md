@@ -4,7 +4,7 @@ layout: default
 ---
 ## Principal Investigators
 
-<div class="row row-cols-1 row-cols-md-4">
+<div class="row row-cols-3 row-cols-md-4">
   <div class="col mb-4">
     <div class="card" style="width: 10rem;">
       <img src="https://dummyimage.com/600x400/000/fff.jpg" class="card-img-top" alt="...">
