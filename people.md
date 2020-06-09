@@ -4,6 +4,25 @@ layout: default
 ---
 ## Principal Investigators
 
+<div class="row isotope projects-container js-layout-masonry">
+  
+  <div class="col-xs-12 col-sm-6 col-md-4 col-lg-6 project-item isotope-item pdra_fafmip">
+    <div class="card">
+      <a href="https://cims.nyu.edu/~dimitris/" title="" class="card-image hover-overlay" target="_blank">
+        <img src="images/team/dimitris_small.png" alt="" class="img-responsive">
+      </a>
+          
+      <div class="card-text">
+        <h4><a href="https://cims.nyu.edu/~dimitris/" target="_blank">Dimitris Giannakis</a></h4>
+        <div class="card-desription">
+          <p>Associte Professor or Mathematics, Courant Institute, NYU</p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+</div>
+
 <table class="fixed">
   <col width="200"/>
   <col width="200"/>
@@ -35,23 +54,3 @@ layout: default
 
 
 ## Postdocs and Researchers
-
-<div class="row isotope projects-container js-layout-masonry">
-<div class="col-xs-12 col-sm-6 col-md-4 col-lg-6 project-item isotope-item pdra_fafmip">
-        <div class="card">
-          
-          <a href="https://cims.nyu.edu/~dimitris/" title="" class="card-image hover-overlay"
-             target="_blank">
-            <img src="images/team/dimitris_small.png" alt="" class="img-responsive">
-          </a>
-          
-          <div class="card-text">
-            <h4><a href="https://cims.nyu.edu/~dimitris/" target="_blank">Dimitris</a></h4>
-            <div class="card-desription">
-              <p>Title goes here</p>
-            </div>
-          </div>
-        </div>
-      </div>
-
-</div>
