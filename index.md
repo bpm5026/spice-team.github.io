@@ -10,6 +10,8 @@ Sea ice is a truly multiscale phenomenon: its dynamics is heavily influenced by 
 
 In response, the overarching goal of this project is to develop an improved mathematical framework for sea ice prediction from synoptic to pan-Arctic scales, which will fill the gap in our quantitative understanding of its evolution as a multiscale medium, enabling the development of the next-generation sea ice prediction systems.
 
+[image](./images/muri_schematic.pdf)
+
 ## Collaborating Institutions
 
 This project brings together researchers from Applied Mathematics,
