@@ -4,9 +4,8 @@ layout: default
 ---
 ## Principal Investigators
 
-<div class="grid" data-masonry='{ "columnWidth": 200, "itemSelector": ".grid-item" }'>
+<div class="wrapper">
   
-    <div class="grid-item">
     <div class="card" style="width: 10rem;">
       <a href="https://cims.nyu.edu/~dimitris/" title="" class="card-image hover-overlay" target="_blank">
         <img src="images/team/dimitris_small.png" alt="" class="img-responsive">
@@ -18,10 +17,8 @@ layout: default
           <p>Associte Professor of Mathematics, Courant Institute, NYU</p>
         </div>
       </div>
-    </div>
     </div>
     
-    <div class="grid-item">
     <div class="card" style="width: 10rem;">
       <a href="https://cims.nyu.edu/~dimitris/" title="" class="card-image hover-overlay" target="_blank">
         <img src="images/team/dimitris_small.png" alt="" class="img-responsive">
@@ -33,10 +30,8 @@ layout: default
           <p>Associte Professor of Mathematics, Courant Institute, NYU</p>
         </div>
       </div>
-    </div>
     </div>
     
-    <div class="grid-item">
     <div class="card" style="width: 10rem;">
       <a href="https://cims.nyu.edu/~dimitris/" title="" class="card-image hover-overlay" target="_blank">
         <img src="images/team/dimitris_small.png" alt="" class="img-responsive">
@@ -49,9 +44,7 @@ layout: default
         </div>
       </div>
     </div>
-    </div>
   
-    <div class="grid-item">
     <div class="card" style="width: 10rem;">
       <a href="https://www.gfdl.noaa.gov/mitch-bushuk/" title="" class="card-image hover-overlay" target="_blank">
         <img src="images/team/bushuk.png" alt="" class="img-responsive">
@@ -63,7 +56,6 @@ layout: default
           <p>Research Scientist, GFDL, Princeton</p>
         </div>
       </div>
-    </div>
     </div>
 
 </div>
