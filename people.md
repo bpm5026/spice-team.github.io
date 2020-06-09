@@ -4,7 +4,7 @@ layout: default
 ---
 ## Principal Investigators
 
-<div class="grid-container" type="rows">
+<div class="row isotope projects-container js-layout-masonry">
   
     <div class="grid-item">
     <div class="card" style="width: 10rem;">
