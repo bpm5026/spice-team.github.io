@@ -4,7 +4,7 @@ layout: default
 ---
 ## Principal Investigators
 
-<div class="row isotope projects-container js-layout-masonry">
+<div class="grid">
   
     <div class="card" style="width: 10rem;">
       <a href="https://cims.nyu.edu/~dimitris/" title="" class="card-image hover-overlay" target="_blank">
