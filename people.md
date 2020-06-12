@@ -67,7 +67,20 @@ layout: default
           <div class="card-text">
             <h4><a href="https://www.ocean.washington.edu/home/Georgy%20Manucharyan" target="_blank">Georgy Manucharyan</a></h4>
             <div class="card-desription">
-              <p>Assistant Professor, University of Washington</p>
+              <p>Assistant Professor, Courant Institute, NYU</p>
+            </div>
+          </div>
+        </div>
+    </td>
+    <td> <!-- Georg Stadler -->
+       <div class="card" style="width: 10rem;">
+          <a href="https://math.nyu.edu/~stadler/" title="" class="card-image hover-overlay" target="_blank">
+          <img src="images/team/gs_headshot.png" alt="" class="img-responsive">
+          </a>  
+          <div class="card-text">
+            <h4><a href="https://math.nyu.edu/~stadler/" target="_blank">Georg Stadler</a></h4>
+            <div class="card-desription">
+              <p>Professor, University of Washington</p>
             </div>
           </div>
         </div>
