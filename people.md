@@ -229,6 +229,19 @@ layout: default
           </div>
         </div>
     </td>
+    <td> <!-- Kalyan Shrestha -->
+        <div class="card" style="width: 10rem;">
+          <a href="" title="" class="card-image hover-overlay" target="_blank">
+          <img src="images/team/" alt="" class="img-responsive">
+          </a>  
+          <div class="card-text">
+            <h4><a href="" target="_blank">Kalyan Shrestha</a></h4>
+            <div class="card-desription">
+              <p>Post-Doctoral Research Scientist, University of Washington</p>
+            </div>
+          </div>
+        </div>
+    </td>
   </tr>
 </table>
 
