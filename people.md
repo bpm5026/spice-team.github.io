@@ -59,6 +59,19 @@ layout: default
           </div>
         </div>
     </td>
+    <td> <!-- Georgy Manucharyan -->
+       <div class="card" style="width: 10rem;">
+          <a href="https://www.ocean.washington.edu/home/Georgy%20Manucharyan" title="" class="card-image hover-overlay" target="_blank">
+          <img src="images/team/GeorgyM.jpg" alt="" class="img-responsive">
+          </a>  
+          <div class="card-text">
+            <h4><a href="https://www.ocean.washington.edu/home/Georgy%20Manucharyan" target="_blank">Georgy Manucharyan</a></h4>
+            <div class="card-desription">
+              <p>Assistant Professor, University of Washington</p>
+            </div>
+          </div>
+        </div>
+    </td>
   </tr>
 </table>
 
