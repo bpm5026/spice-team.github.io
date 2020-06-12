@@ -139,12 +139,25 @@ layout: default
     <td> <!-- Andrew Davis -->
         <div class="card" style="width: 10rem;">
           <a href="" title="" class="card-image hover-overlay" target="_blank">
-          <img src="images/team/andydavis.png" alt="" class="img-responsive">
+          <img src="images/team/andydavis.jpg" alt="" class="img-responsive">
           </a>  
           <div class="card-text">
             <h4><a href="" target="_blank">Andrew Davis</a></h4>
             <div class="card-desription">
               <p>Post-Doctoral Research Scientist, Courant Institute, NYU</p>
+            </div>
+          </div>
+        </div>
+    </td>
+    <td> <!-- Quanling Deng -->
+        <div class="card" style="width: 10rem;">
+          <a href="https://www.math.wisc.edu/~qdeng37/" title="" class="card-image hover-overlay" target="_blank">
+          <img src="images/team/" alt="" class="img-responsive">
+          </a>  
+          <div class="card-text">
+            <h4><a href="https://www.math.wisc.edu/~qdeng37/" target="_blank">Quanling Deng</a></h4>
+            <div class="card-desription">
+              <p>Visiting Assistant Professor, University of Wisconsin–Madison</p>
             </div>
           </div>
         </div>
