@@ -99,6 +99,19 @@ layout: default
           </div>
         </div>
     </td>
+    <td> <!-- Andrew Thompson -->
+       <div class="card" style="width: 10rem;">
+          <a href="http://web.gps.caltech.edu/~andrewt/" title="" class="card-image hover-overlay" target="_blank">
+          <img src="images/team/" alt="" class="img-responsive">
+          </a>  
+          <div class="card-text">
+            <h4><a href="http://web.gps.caltech.edu/~andrewt/" target="_blank">Andrew Thompson</a></h4>
+            <div class="card-desription">
+              <p>Professor, California Institute of Technology</p>
+            </div>
+          </div>
+        </div>
+    </td>
   <tr>
   </tr>
 </table>
