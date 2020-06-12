@@ -164,11 +164,11 @@ layout: default
     </td>
     <td> <!-- Alexis Anne Denton -->
         <div class="card" style="width: 10rem;">
-          <a href="" title="" class="card-image hover-overlay" target="_blank">
+          <a href="" title="https://people.earth.yale.edu/profile/alexis-denton/about" class="card-image hover-overlay" target="_blank">
           <img src="images/team/" alt="" class="img-responsive">
           </a>  
           <div class="card-text">
-            <h4><a href="" target="_blank">Alexis Anne Denton</a></h4>
+            <h4><a href="https://people.earth.yale.edu/profile/alexis-denton/about" target="_blank">Alexis Anne Denton</a></h4>
             <div class="card-desription">
               <p>Post-Doctoral Research Scientist, Yale University</p>
             </div>
