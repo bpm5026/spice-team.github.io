@@ -280,4 +280,3 @@ layout: default
     </td>
   </tr>
 </table>
-
