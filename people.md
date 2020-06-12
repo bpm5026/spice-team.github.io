@@ -5,6 +5,7 @@ layout: default
 ## Principal Investigators
 
 <div class="card-deck">
+  <!-- Dimitris Giannakis -->
   <div class="card" style="width: 10rem;">
     <a href="https://cims.nyu.edu/~dimitris/" title="" class="card-image hover-overlay" target="_blank">
       <img src="images/team/dimitris_small.png" alt="" class="img-responsive">
@@ -13,6 +14,18 @@ layout: default
       <h4><a href="https://cims.nyu.edu/~dimitris/" target="_blank">Dimitris Giannakis</a></h4>
       <div class="card-desription">
         <p>Associte Professor of Mathematics, Courant Institute, NYU</p>
+      </div>
+    </div>
+  </div>
+  <!-- Mitch Bushuk -->
+  <div class="card" style="width: 10rem;">
+    <a href="https://www.gfdl.noaa.gov/mitch-bushuk/" title="" class="card-image hover-overlay" target="_blank">
+      <img src="images/team/bushuk.png" alt="" class="img-responsive">
+    </a>  
+    <div class="card-text">
+      <h4><a href="https://www.gfdl.noaa.gov/mitch-bushuk/" target="_blank">Mitch Bushuk</a></h4>
+      <div class="card-desription">
+        <p>Research Scientist, GFDL, Princeton</p>
       </div>
     </div>
   </div>
