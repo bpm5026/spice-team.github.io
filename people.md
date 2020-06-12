@@ -129,7 +129,7 @@ layout: default
   </tr>
 </table>
 
-## Postdocs, Researchers, and students
+## Postdocs, Researchers, and Students
 
 <table class="fixed">
   <col width="200"/>
@@ -216,10 +216,23 @@ layout: default
           </div>
         </div>
     </td>
+    <td> <!-- Brandon Montemuro -->
+        <div class="card" style="width: 10rem;">
+          <a href="https://www.ocean.washington.edu/home/Brandon_Montemuro" title="" class="card-image hover-overlay" target="_blank">
+          <img src="images/team/montemuro.jpeg" alt="" class="img-responsive">
+          </a>  
+          <div class="card-text">
+            <h4><a href="https://www.ocean.washington.edu/home/Brandon_Montemuro" target="_blank">Brandon Montemuro</a></h4>
+            <div class="card-desription">
+              <p>Post-Doctoral Research Scientist, University of Washington</p>
+            </div>
+          </div>
+        </div>
+    </td>
   </tr>
 </table>
 
-## External collaborators
+## External Collaborators
 
 <table class="fixed">
   <col width="200"/>
