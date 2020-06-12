@@ -131,6 +131,27 @@ layout: default
 
 ## Postdocs, Researchers, and students
 
+<table class="fixed">
+  <col width="200"/>
+  <col width="200"/>
+  <col width="200"/>
+  <tr>
+    <td> <!-- Andrew Davis -->
+        <div class="card" style="width: 10rem;">
+          <a href="" title="" class="card-image hover-overlay" target="_blank">
+          <img src="images/team/andydavis.png" alt="" class="img-responsive">
+          </a>  
+          <div class="card-text">
+            <h4><a href="" target="_blank">Andrew Davis</a></h4>
+            <div class="card-desription">
+              <p>Post-Doctoral Research Scientist, Courant Institute, NYU</p>
+            </div>
+          </div>
+        </div>
+    </td>
+  </tr>
+</table>
+
 ## External collaborators
 
 <table class="fixed">
