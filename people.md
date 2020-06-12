@@ -112,6 +112,19 @@ layout: default
           </div>
         </div>
     </td>
+    <td> <!-- Mary-Louise Timmermans -->
+       <div class="card" style="width: 10rem;">
+          <a href="https://people.earth.yale.edu/profile/mary-louise-timmermans/about" title="" class="card-image hover-overlay" target="_blank">
+          <img src="images/team/Mary-Louise.jpg" alt="" class="img-responsive">
+          </a>  
+          <div class="card-text">
+            <h4><a href="https://people.earth.yale.edu/profile/mary-louise-timmermans/about" target="_blank">Mary-Louise Timmermans</a></h4>
+            <div class="card-desription">
+              <p>Professor, Yale University</p>
+            </div>
+          </div>
+        </div>
+    </td>
   <tr>
   </tr>
 </table>
