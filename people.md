@@ -3,7 +3,7 @@ title: People
 layout: default
 ---
 
-## Principal Investigators
+## Principal Investigator
 
 <table class="fixed">
   <col width="200"/>
@@ -33,23 +33,10 @@ layout: default
   <col width="200"/>
   <col width="200"/>
   <tr>
-      <td> <!-- Mitch Bushuk -->
-          <div class="card" style="width: 10rem;">
-            <a href="https://www.gfdl.noaa.gov/mitch-bushuk/" title="" class="card-image hover-overlay" target="_blank">
-            <img src="images/team/bushuk.png" alt="" class="img-responsive">
-            </a>  
-            <div class="card-text">
-              <h4><a href="https://www.gfdl.noaa.gov/mitch-bushuk/" target="_blank">Mitch Bushuk</a></h4>
-              <div class="card-desription">
-                <p>Research Scientist, GFDL, Princeton</p>
-              </div>
-            </div>
-          </div>
-      </td>
       <td> <!-- Nan Chen -->
           <div class="card" style="width: 10rem;">
             <a href="https://www.math.wisc.edu/~chennan/" title="" class="card-image hover-overlay" target="_blank">
-            <img src="images/team/chen.jpeg" alt="" class="img-responsive">
+            <img src="images/team/chen.jpg" alt="" class="img-responsive">
             </a>  
             <div class="card-text">
               <h4><a href="https://www.math.wisc.edu/~chennan/" target="_blank">Nan Chen</a></h4>
@@ -63,4 +50,27 @@ layout: default
 </table>
 
 ## Postdocs, Researchers, and students
+
+## External collaborators
+
+<table class="fixed">
+  <col width="200"/>
+  <col width="200"/>
+  <col width="200"/>
+  <tr>
+      <td> <!-- Mitch Bushuk -->
+          <div class="card" style="width: 10rem;">
+            <a href="https://www.gfdl.noaa.gov/mitch-bushuk/" title="" class="card-image hover-overlay" target="_blank">
+            <img src="images/team/bushuk.png" alt="" class="img-responsive">
+            </a>  
+            <div class="card-text">
+              <h4><a href="https://www.gfdl.noaa.gov/mitch-bushuk/" target="_blank">Mitch Bushuk</a></h4>
+              <div class="card-desription">
+                <p>Research Scientist, GFDL, Princeton</p>
+              </div>
+            </div>
+          </div>
+      </td>
+  </tr>
+</table>
 
