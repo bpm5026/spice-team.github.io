@@ -165,7 +165,7 @@ layout: default
     <td> <!-- Alexis Anne Denton -->
         <div class="card" style="width: 10rem;">
           <a href="" title="https://people.earth.yale.edu/profile/alexis-denton/about" class="card-image hover-overlay" target="_blank">
-          <img src="images/team/" alt="" class="img-responsive">
+          <img src="images/team/Denton.jpg" alt="" class="img-responsive">
           </a>  
           <div class="card-text">
             <h4><a href="https://people.earth.yale.edu/profile/alexis-denton/about" target="_blank">Alexis Anne Denton</a></h4>
