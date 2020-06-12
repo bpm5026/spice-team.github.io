@@ -85,6 +85,19 @@ layout: default
           </div>
         </div>
     </td>
+    <td> <!-- Sam Stechmann -->
+       <div class="card" style="width: 10rem;">
+          <a href="https://www.math.wisc.edu/~stechmann/" title="" class="card-image hover-overlay" target="_blank">
+          <img src="images/team/picStechmann.jpg" alt="" class="img-responsive">
+          </a>  
+          <div class="card-text">
+            <h4><a href="https://www.math.wisc.edu/~stechmann/" target="_blank">Sam Stechmann</a></h4>
+            <div class="card-desription">
+              <p>Professor, University of Wisconsin–Madison</p>
+            </div>
+          </div>
+        </div>
+    </td>
   </tr>
 </table>
 
