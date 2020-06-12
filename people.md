@@ -85,6 +85,7 @@ layout: default
           </div>
         </div>
     </td>
+  </tr>
     <td> <!-- Sam Stechmann -->
        <div class="card" style="width: 10rem;">
           <a href="https://www.math.wisc.edu/~stechmann/" title="" class="card-image hover-overlay" target="_blank">
@@ -98,6 +99,7 @@ layout: default
           </div>
         </div>
     </td>
+  <tr>
   </tr>
 </table>
 
