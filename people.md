@@ -67,7 +67,7 @@ layout: default
           <div class="card-text">
             <h4><a href="https://www.ocean.washington.edu/home/Georgy%20Manucharyan" target="_blank">Georgy Manucharyan</a></h4>
             <div class="card-desription">
-              <p>Assistant Professor, Courant Institute, NYU</p>
+              <p>Assistant Professor, University of Washington</p>
             </div>
           </div>
         </div>
@@ -80,7 +80,7 @@ layout: default
           <div class="card-text">
             <h4><a href="https://math.nyu.edu/~stadler/" target="_blank">Georg Stadler</a></h4>
             <div class="card-desription">
-              <p>Professor, University of Washington</p>
+              <p>Professor, Courant Institute, NYU</p>
             </div>
           </div>
         </div>
