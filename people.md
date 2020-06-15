@@ -178,7 +178,7 @@ layout: default
     <td> <!-- Huy Dinh -->
         <div class="card" style="width: 10rem;">
           <a href="" title="" class="card-image hover-overlay" target="_blank">
-          <img src="images/team/" alt="" class="img-responsive">
+          <img src="images/team/HDinh picture.jpg" alt="" class="img-responsive">
           </a>  
           <div class="card-text">
             <h4><a href="" target="_blank">Huy Dinh</a></h4>
