@@ -142,7 +142,7 @@ layout: default
     <td> <!-- Quanling Deng -->
         <div class="card" style="width: 10rem;">
           <a href="https://www.math.wisc.edu/~qdeng37/" title="" class="card-image hover-overlay" target="_blank">
-          <img src="images/team/" alt="" class="img-responsive">
+          <img src="images/team/QuanlingDeng.jpg" alt="" class="img-responsive">
           </a>  
           <div class="card-text">
             <h4><a href="https://www.math.wisc.edu/~qdeng37/" target="_blank">Quanling Deng</a></h4>
