@@ -3,7 +3,7 @@ title: People
 layout: default
 ---
 
-## Principal Investigator
+## Principal Investigators
 
 <table class="fixed">
   <col width="200"/>
@@ -23,16 +23,6 @@ layout: default
           </div>
         </div>
     </td>
-  </tr>
-</table>
-
-## co-Principal Investigators
-
-<table class="fixed">
-  <col width="200"/>
-  <col width="200"/>
-  <col width="200"/>
-  <tr>
     <td> <!-- Nan Chen -->
        <div class="card" style="width: 10rem;">
           <a href="https://www.math.wisc.edu/~chennan/" title="" class="card-image hover-overlay" target="_blank">
@@ -72,6 +62,7 @@ layout: default
           </div>
         </div>
     </td>
+  </tr>
     <td> <!-- Georg Stadler -->
        <div class="card" style="width: 10rem;">
           <a href="https://math.nyu.edu/~stadler/" title="" class="card-image hover-overlay" target="_blank">
@@ -85,7 +76,6 @@ layout: default
           </div>
         </div>
     </td>
-  </tr>
     <td> <!-- Sam Stechmann -->
        <div class="card" style="width: 10rem;">
           <a href="https://www.math.wisc.edu/~stechmann/" title="" class="card-image hover-overlay" target="_blank">
