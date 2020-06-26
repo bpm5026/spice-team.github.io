@@ -183,7 +183,7 @@ layout: default
     <td> <!-- Shubin Fu -->
         <div class="card" style="width: 10rem;">
           <a href="" title="" class="card-image hover-overlay" target="_blank">
-          <img src="images/team/" alt="" class="img-responsive">
+          <img src="images/team/ShubinFu.jpg" alt="" class="img-responsive">
           </a>  
           <div class="card-text">
             <h4><a href="" target="_blank">Shubin Fu</a></h4>
