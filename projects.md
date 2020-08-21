@@ -10,9 +10,9 @@ The Observational Data Analysis group is analyzing both remote sensing and in-si
 
 ![YALE schematic](./images/YaleProject_WebsiteFigure.png)
 
-## University of Wisconsin-Madison group
+## Data assimilation and UQ team
 
-The University of Wisconsin-Madison group is currently focusing on two projects: 1) Data assimilation and 2) Uncertainty quantification (UQ) for coupled atmosphere, ocean and sea ice model. The data assimilation project aims at designing efficient and accurate filters to improve the state estimation of the atmosphere and ocean flow fields using the observed Lagrangian trajectories of the sea ice floes. Estimating model parameters and the associated statistics (e.g., sea ice thickness distribution) also belongs to the data assimilation framework. The goal of the UQ project is to explore the role of the atmosphere and ocean in affecting the sea ice dynamics and the associated prediction skill. It also aims at exploring the uncertainty and model error in various cheap and practically useful stochastic parameterizations.
+The Data assimilation and UQ team is currently focusing on two projects: 1) Data assimilation and 2) Uncertainty quantification (UQ) for coupled atmosphere, ocean and sea ice model. The data assimilation project aims at designing efficient and accurate filters to improve the state estimation of the atmosphere and ocean flow fields using the observed Lagrangian trajectories of the sea ice floes. Estimating model parameters and the associated statistics (e.g., sea ice thickness distribution) also belongs to the data assimilation framework. The goal of the UQ project is to explore the role of the atmosphere and ocean in affecting the sea ice dynamics and the associated prediction skill. It also aims at exploring the uncertainty and model error in various cheap and practically useful stochastic parameterizations.
 
 ![WISCONSIN schematic](./images/WisconsinProj_WebsiteFigure.png)
 
