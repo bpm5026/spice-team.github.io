@@ -16,6 +16,8 @@ The University of Wisconsin-Madison group is currently focusing on two projects:
 
 ![WISCONSIN schematic](./images/WisconsinProj_WebsiteFigure.png)
 
-## Discrete element modeling
+## Discete element methods development team
 
 Here, we present a new discrete-element ice floe model that will explicitly simulate interactions between individual floes as opposed to developing continuous rheology. Our goal is to develop a versatile sea ice model that could be used in conjunction with floe-scale satellite and in situ observations for short-term sea ice predictions, data assimilation, parameter estimation, uncertainty quantification as well as to explore various atmosphere-ocean-ice processes occurring at floe scales. While the ice floe model consists of several mechanical and thermodynamic components, our focus is to develop a set of floe interaction rules that can lead to realistic sea ice mechanics, including the realistic distributions of fractures, sizes, thicknesses, and shapes. This model includes the implementation of various physical processes affecting evolution of floes in the model including collisions, fractures, creation of new floes and packing algorithm, dilution of floes and an Eulerian variable for keeping track of the unresolved small-scale floe, welding, and ridging.
+
+![DEM schematic](./images/DEM_WebsiteFigure.jpg)
