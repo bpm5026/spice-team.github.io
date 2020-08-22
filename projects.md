@@ -23,7 +23,7 @@ Here, we present a new discrete-element ice floe model that will explicitly simu
 ![DEM schematic](./images/DEM_WebsiteFigure.jpg)
 
 
-## Supe
+## Superparametrized sea ice models
 
 Led by the NYU team, we develop a superparameterized sea ice (SPICE)
 model that captures dynamics at multiple spatial and temporal
