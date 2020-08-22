@@ -22,6 +22,29 @@ Here, we present a new discrete-element ice floe model that will explicitly simu
 
 ![DEM schematic](./images/DEM_WebsiteFigure.jpg)
 
+
+## Supe
+
+Led by the NYU team, we develop a superparameterized sea ice (SPICE)
+model that captures dynamics at multiple spatial and temporal
+scales. Arctic sea ice contains many ice floes---chunks of ice---whose
+macro-scale behavior is driven by oceanic/atmospheric currents and
+floe-floe interaction. There is no characteristic floe size; data
+suggest the floe size distribution follows a power law. Therefore,
+accurately modeling sea ice dynamics requires a multi-scale
+approach. Our two-tiered model couples basin-scale conservation
+equations with small-scale discrete element particle methods. The
+basin-scale sea ice dynamics are primarily driven by external forces
+(wind and ocean stresses), which advect ice floes. Small-scale floe
+dynamics---deformation, fracture, and collisions---lead to emergent
+behavior such as lead formation and ridging. Unlike many other sea ice
+models, we do not average quantities of interest (e.g., mass/momentum)
+over a representative volume element; we explicitly model small-scale
+dynamics. We formulate a mathematical modeling framework that
+rigorously couples a macro-scale PDE with small-scale particle
+methods.
+
+
 ## Atmosphere-ice-ocean coupling
 
 The Caltech group is working to improve our understanding of how
