@@ -16,8 +16,26 @@ The Data assimilation and UQ team is currently focusing on two projects: 1) Data
 
 ![WISCONSIN schematic](./images/WisconsinProj_WebsiteFigure.png)
 
-## Discete element methods development team
+## Discrete element methods development team
 
 Here, we present a new discrete-element ice floe model that will explicitly simulate interactions between individual floes as opposed to developing continuous rheology. Our goal is to develop a versatile sea ice model that could be used in conjunction with floe-scale satellite and in situ observations for short-term sea ice predictions, data assimilation, parameter estimation, uncertainty quantification as well as to explore various atmosphere-ocean-ice processes occurring at floe scales. While the ice floe model consists of several mechanical and thermodynamic components, our focus is to develop a set of floe interaction rules that can lead to realistic sea ice mechanics, including the realistic distributions of fractures, sizes, thicknesses, and shapes. This model includes the implementation of various physical processes affecting evolution of floes in the model including collisions, fractures, creation of new floes and packing algorithm, dilution of floes and an Eulerian variable for keeping track of the unresolved small-scale floe, welding, and ridging.
 
 ![DEM schematic](./images/DEM_WebsiteFigure.jpg)
+
+## Atmosphere-ice-ocean coupling
+
+The Caltech group is working to improve our understanding of how
+oceanic and atmospheric circulations influence the characteristics of
+a heterogeneous sea ice field.  The group is working closely with
+other team members to build a hierarchy of numerical models to
+represent coupled processes at the ice-ocean-atmosphere interface.  Of
+particular interest is the impact of ice floes on modifying mechanical
+and buoyancy forcing, or surface stress and heat/freshwater fluxes, in
+the marginal ice zone; the formation and evolution of small-scale
+fronts in the ocean surface boundary layer and its contribution sea
+ice melt; the role of oceanic and atmospheric flows on sea-ice
+transport.  Our models span idealized ocean turbulence simulations to
+high resolution GCMs and LES simulations.  We will also use a
+combination of remote sensing and in situ observations to guide model
+development and to validate key dynamical processes. (see Yale group
+for further details).
