@@ -45,6 +45,8 @@ rigorously couples a macro-scale PDE with small-scale particle
 methods.
 
 
+![SPICE schematic](./images/SPICE_WebsiteFigure.pdf)
+
 ## Atmosphere-ice-ocean coupling
 
 The Caltech group is working to improve our understanding of how
