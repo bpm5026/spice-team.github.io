@@ -196,7 +196,7 @@ layout: default
     <td> <!-- Mukund Gupta -->
         <div class="card" style="width: 10rem;">
           <a href="https://eapsweb.mit.edu/people/guptam" title="" class="card-image hover-overlay" target="_blank">
-          <img src="images/team/" alt="" class="img-responsive">
+          <img src="images/team/gupta.jpeg" alt="" class="img-responsive">
           </a>  
           <div class="card-text">
             <h4><a href="https://eapsweb.mit.edu/people/guptam" target="_blank">Mukund Gupta</a></h4>
@@ -258,7 +258,7 @@ layout: default
     <td> <!-- Joanna Slawinska -->
         <div class="card" style="width: 10rem;">
           <a href="https://uwm.edu/physics/people/slawinska-joanna/" title="" class="card-image hover-overlay" target="_blank">
-          <img src="images/team/" alt="" class="img-responsive">
+          <img src="images/team/slawinska.jpg" alt="" class="img-responsive">
           </a>  
           <div class="card-text">
             <h4><a href="https://uwm.edu/physics/people/slawinska-joanna/" target="_blank">Joanna Slawinska</a></h4>
