@@ -45,7 +45,7 @@ rigorously couples a macro-scale PDE with small-scale particle
 methods.
 
 
-![SPICE schematic](./images/SPICE_WebsiteFigure.pdf)
+![SPICE schematic](./images/SPICE_WebsiteFigure.png)
 
 ## Atmosphere-ice-ocean coupling
 
