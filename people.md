@@ -18,7 +18,7 @@ layout: default
           <div class="card-text">
             <h4><a href="https://cims.nyu.edu/~dimitris/" target="_blank">Dimitris Giannakis</a></h4>
             <div class="card-desription">
-              <p>Associte Professor of Mathematics, Courant Institute, NYU</p>
+              <p>Associate Professor of Mathematics, Courant Institute, NYU</p>
             </div>
           </div>
         </div>

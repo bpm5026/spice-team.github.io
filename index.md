@@ -15,7 +15,7 @@ In response, the overarching goal of this project is to develop an improved math
 ## Collaborating Institutions
 
 This project brings together researchers from Applied Mathematics,
-Atomospheric, Oceanic and Cryospheric Sciences, and Computational
+Atmospheric, Oceanic and Cryospheric Sciences, and Computational
 Science from several institutions:
 
 - Courant Institute, New York University
