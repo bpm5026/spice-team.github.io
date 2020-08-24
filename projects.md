@@ -64,3 +64,5 @@ high resolution GCMs and LES simulations.  We will also use a
 combination of remote sensing and in situ observations to guide model
 development and to validate key dynamical processes. (see Yale group
 for further details).
+
+![Sea Ice Thickness](./images/WebsiteImage_AFT.png)

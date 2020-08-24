@@ -7,6 +7,9 @@ docs:
 - title: People
   url: people.html
   
+- title: Projects
+  url: projects.html
+  
 - title: Publications
   url: publications.html
 
@@ -15,8 +18,5 @@ docs:
 
 - title: Software
   url: software.html
-  
-- title: Projects
-  url: projects.html
  
 
