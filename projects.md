@@ -2,7 +2,6 @@
 title: Projects
 layout: default
 ---
-# Projects
 
 ## Observational analyses of sea ice and ocean dynamics
 
