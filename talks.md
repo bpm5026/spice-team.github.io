@@ -2,8 +2,6 @@
 title: Talks
 layout: default
 ---
-## Talks
-
 
 ## 2020
 
