@@ -201,7 +201,7 @@ layout: default
           <div class="card-text">
             <h4><a href="https://eapsweb.mit.edu/people/guptam" target="_blank">Mukund Gupta</a></h4>
             <div class="card-desription">
-              <p>Graduate Student, MIT</p>
+              <p>Post-Doctoral Research Scientist, CalTech</p>
             </div>
           </div>
         </div>
