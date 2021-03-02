@@ -1,5 +1,5 @@
 ---
-title: Talks
+title: Upcoming workshop
 layout: default
 ---
 
