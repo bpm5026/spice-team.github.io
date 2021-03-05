@@ -2,6 +2,8 @@
 title: Upcoming workshop
 layout: default
 ---
+ <a href=" https://qfreeaccountssjc1.az1.qualtrics.com/jfe/form/SV_5uLNi6Vbl5kIHum">Workshop discussion survey</a>, 
+
 
 ![Workshop flyer](./files/Sea_Ice_Workshop_Flyer.png)
 
