@@ -2,6 +2,7 @@
 title: Upcoming workshop
 layout: default
 ---
+## Workshop topics survey
 
 ![Workshop flyer](./files/Sea_Ice_Workshop_Flyer.png)
 
