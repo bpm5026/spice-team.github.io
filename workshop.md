@@ -3,6 +3,7 @@ title: Upcoming workshop
 layout: default
 ---
 ## Workshop topics survey
+Here is a link to the survey of topics to discuss at the workshop
 
 ![Workshop flyer](./files/Sea_Ice_Workshop_Flyer.png)
 
